@@ -43,13 +43,13 @@ NewPing sonar(TRIG, ECHO, MAX_DISTANCE);
 int sonar_iterations = 5;
 
 float initial_distance;
-float evaporationRate; //initial
+float evaporationRate;
 String evaporationUnits = " cm/h"; 
 int timerAmount = 3600000; //1hour in milliseconds
 float hoursRemaining;
 
-float containerHeight = 14.6; // double check value with no water
-int DANGER_WATER_LEVEL = 12.6;
+float containerHeight = 12;
+float DANGER_WATER_LEVEL = 12.5;
 int selectedScreen = 1;
 
 Neotimer mytimer = Neotimer(timerAmount); // Set timer's preset to 1hour
