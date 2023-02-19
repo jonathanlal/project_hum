@@ -30,6 +30,10 @@ display module:
 Fitting it inside the humidifier:
 ![enter image description here](https://raw.githubusercontent.com/jonathanlal/project_hum/master/20230217_224531.jpg)
 
+sensors inside:
+
+![enter image description here](https://raw.githubusercontent.com/jonathanlal/project_hum/master/20230218_011758.jpg)
+
 final product:
 ![enter image description here](https://raw.githubusercontent.com/jonathanlal/project_hum/master/20230218_012640.jpg)
 
