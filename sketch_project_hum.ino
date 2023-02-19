@@ -49,7 +49,7 @@ int timerAmount = 3600000; //1hour in milliseconds
 float hoursRemaining;
 
 float containerHeight = 12;
-float DANGER_WATER_LEVEL = 12.5;
+float DANGER_WATER_LEVEL = 10.5;
 int selectedScreen = 1;
 
 Neotimer mytimer = Neotimer(timerAmount); // Set timer's preset to 1hour
